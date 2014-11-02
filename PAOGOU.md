@@ -1,9 +1,7 @@
-   <img src="http://tk.tk180.com:16880/caitu/hm40.jpg" width="720" height="auto" alt="" /> 
+<img src="http://tk.tk180.com:16880/caitu/hm40.jpg" width="720" height="auto" alt="" /> 
    <p><a href="http://www.100tk.com/col/5357.html" target="view_window">跑狗历史记录</a></p>
-
-    <img src="http://tk.tk180.com:16880/caitu/hm39.jpg" width="720" height="auto" alt="" /> 
-
- 2014年五行（每年转换）
+<img src="http://tk.tk180.com:16880/caitu/hm39.jpg" width="720" height="auto" alt="" /> 
+ <p>2014年五行（每年转换）</p>
 
     (白)金: 01 14 15 22 23 30 31 44 45
     (青)木: 04 05 12 13 26 27 34 35 42 43
