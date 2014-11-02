@@ -45,7 +45,7 @@
 
   * [bt](#23)
   
-  <base target="_blank">
+
  <h1 id="1">google</h1>
 
 >[Blogger 博客](https://www.blogger.com/home?pli=1) 
