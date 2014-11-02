@@ -1,5 +1,5 @@
-toc: yes
-[<base target="_blank">]
+[toc: yes]
+<base target="_blank">
 [360](http://yunpan.360.cn/) | [Google](https://www.google.com/ncr)  |  [Pocket](http://getpocket.com/a/queue/)  | [QQ](http://mail.qq.com/)   | [±ãÇ©](http://www.aypwip.org/webnote/6889692note)  |  [°Ù¶È](http://www.baidu.com/)
 #  google
 [Blogger ²©¿Í](https://www.blogger.com/home?pli=1)
