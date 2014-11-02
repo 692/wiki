@@ -1,5 +1,4 @@
-﻿Bookmarks
-## [360](http://yunpan.360.cn/) >>[Google](https://www.google.com/ncr) >>[Pocket](http://getpocket.com/a/queue/) >>[QQ](http://mail.qq.com/) >>[便签](http://www.aypwip.org/webnote/6889692note) >>[百度](http://www.baidu.com/) 
+﻿### [360](http://yunpan.360.cn/) >>[Google](https://www.google.com/ncr) >>[Pocket](http://getpocket.com/a/queue/) >>[QQ](http://mail.qq.com/) >>[便签](http://www.aypwip.org/webnote/6889692note) >>[百度](http://www.baidu.com/) 
 * [google](#1) 
 
  * [google手机](#2) 
@@ -46,6 +45,7 @@
 
   * [bt](#23)
   
+  <base target="_blank">
  <h1 id="1">google</h1>
 
 >[Blogger 博客](https://www.blogger.com/home?pli=1) 
