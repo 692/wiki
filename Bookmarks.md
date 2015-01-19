@@ -20,25 +20,7 @@ Bookmarks
 
 <ul class=" list-paddingleft-2">
 
-<li class="L22">
-<a href="https://www.google.com/ncr" target="_blank">Google</a>
-</li>
-<li class="L22">
-<a href="http://www.baidu.com/" target="_blank">百度</a>
-</li>
-<li class="L22">
-<a href="http://yunpan.360.cn/" target="_blank">360</a>
-</li>
-<li class="L22">
-<a href="http://www.aypwip.org/webnote/6889692note" target="_blank">便签</a>
-</li>
-<li class="L22">
-<a href="http://getpocket.com/a/queue/" target="_blank">Pocket</a>
-</li>
-<li class="L22">
-<a href="http://mail.qq.com/" target="_blank">QQ</a>
-</li>
-<p></p>
+
 <h3 id="1">
 google
 </h3>
