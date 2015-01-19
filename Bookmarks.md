@@ -5,7 +5,6 @@ A:hover {TEXT-DECORATION: none}</style>
 <h1 style="font-family:Simsun;" target="_blank">
 Bookmarks
 </h1>
-<ul class=" list-paddingleft-2">
 <h4>
     <a href="#1">google</a>&nbsp; &nbsp;&nbsp;<a href="#2">google应用</a><span>&nbsp; &nbsp;&nbsp;</span><a href="#3">google代理站</a><span>&nbsp; &nbsp;&nbsp;</span><a href="#4">google手机</a><span>&nbsp; &nbsp;&nbsp;</span><a href="#5">百度</a><span>&nbsp; &nbsp;&nbsp;</span><a href="#6">新浪</a><span>&nbsp; &nbsp;&nbsp;</span><a href="#7">微软</a><span>&nbsp; &nbsp;&nbsp;</span><a href="#8">网易</a><span>&nbsp; &nbsp;&nbsp;</span><a href="#9">服务</a><span>&nbsp; &nbsp;&nbsp;</span><a href="#10">域名</a>
 </h4>
@@ -17,10 +16,6 @@ Bookmarks
 <h4>
     <a href="#21">永硕E盘</a><span>&nbsp; &nbsp;&nbsp;</span><a href="#22">六合</a><span>&nbsp; &nbsp; &nbsp;&nbsp;</span><a href="#23">其他</a><span>&nbsp; &nbsp; &nbsp;</span><a href="#24">书签</a><span>&nbsp; &nbsp; &nbsp;&nbsp;</span><a href="#25">影视</a><span>&nbsp; &nbsp; &nbsp;&nbsp;</span><a href="#26">bt搜索</a><span>&nbsp; &nbsp; &nbsp;&nbsp;</span><a href="#27">bt合集</a><span>&nbsp; &nbsp; &nbsp;&nbsp;</span><a href="#28">核工厂</a><span>&nbsp; &nbsp; &nbsp;</span><a href="#29">DRP</a><span>&nbsp; &nbsp; &nbsp;</span><a href="#30">1024</a>
 </h4>
-
-<ul class=" list-paddingleft-2">
-
-
 <h3 id="1">
 google
 </h3>
@@ -167,12 +162,6 @@ google
 </li>
 <li class="L22">
 <a href="http://fooce.blogspot.com/" target="_blank">fooce博客(google)</a>
-</li>
-</ul>
-</ul>
-<ul class=" list-paddingleft-2">
-<li class="L22">
-<a href="https://docs.google.com/document/" target="_blank">gd &nbsp;| 新建Gdocs | 文档</a>
 </li>
 <li class="L22">
 <a href="https://sites.google.com/site/paogoutu/" target="_blank">paogou | 跑狗玄机图</a>
@@ -750,7 +739,6 @@ google手机
 <li class="L22">
 <a href="http://6889692.tumblr.com/" target="_blank">Tumblr</a>
 </li>
-
 <h3 id="12">wordpress</h3>
 <li class="L22">
 <a href="http://xywh.blog.cd/" target="_blank"> | CD | blog | 校园文化</a>
@@ -809,7 +797,6 @@ google手机
 <li class="L22">
 <a href="http://mgtang.blog.com/" target="_blank">麦谷糖 | mgtang.blog.com</a>
 </li>
-
 <h3 id="13">微博<h3>
 <li class="L22">
 <a href="https://twitter.com/6889692" target="_blank">Twitter / Home</a>
@@ -832,8 +819,6 @@ google手机
 <li class="L22">
 <a href="http://fanfou.com/home" target="_blank">首页|饭否</a>
 </li>
-
-
 <h3 id="14">
 阅读
 </h3>
@@ -1059,7 +1044,6 @@ google手机
 <li class="L22">
 <a href="http://zh.wikihow.com/%E9%A6%96%E9%A1%B5" target="_blank">wikiHow &nbsp;| &nbsp;您可以编辑的指导手册</a>
 </li>
-
 <h3 id="15">
 无界
 </h3>
@@ -1180,7 +1164,6 @@ google手机
 <li class="L22">
 <a href="http://www.aliued.cn/" target="_blank">阿里巴巴（中国站）用户体验设计部博客</a>
 </li>
-
 <h3 id="17">
 工具
 </h3>
@@ -1322,7 +1305,6 @@ google手机
 <li class="L22">
 <a href="https://notebook.zoho.com/nb/public/goocle/book/162195000000003025?nocover=true" target="_blank">Zoho笔记</a>
 </li>
-
 <h3 id="18">
 google图片站点搜索
 </h3>
@@ -1362,7 +1344,6 @@ google图片站点搜索
 <li class="L22">
 <a href="https://www.google.com/search?lr=&newwindow=1&hl=zh-CN&qscrl=1&biw=1366&bih=621&tbm=isch&sa=1&q=%C3%87i%C3%A7ek+Resimleri+site%3Akaliteliresimler.com&oq=%C3%87i%C3%A7ek+Resimleri+site%3Akaliteliresimler.com&gs_l=img.3...31716.33192.0.33584.3.3.0.0.0.0.207.585.0j2j1.3.0....0...1c.1.37.img..3.0.0.Ukf7omd_02M#imgdii=_" target="_blank">鲜花|kaliteliresimler</a>
 </li>
-
 <h3 id="19">
 搜索
 </h3>
@@ -1420,7 +1401,6 @@ google图片站点搜索
 <li class="L22">
 <a href="http://www.usniff.com/" target="_blank">www.usniff.com |电影搜索|下载Bittorrents | BitTorrent搜索</a>
 </li>
-
 <h3 id="20">
 存储
 </h3>
@@ -1523,11 +1503,9 @@ google图片站点搜索
 <li class="L22">
 <a href="http://kongruxu.ys168.com/" target="_blank">空如许</a>
 </li>
-</ul>
 <h3 id="22">
 六合
 </h3>
-<ul class=" list-paddingleft-2">
 <li class="L22">
 <a href="http://khcp.net/" target="_blank">khcp.net</a>
 </li>
@@ -1663,7 +1641,6 @@ google图片站点搜索
 <li class="L22">
 <a href="http://notepad.cc/share/xtHgnNo7DM" target="_blank">notepad.cc &nbsp;| 六合属性</a>
 </li>
-</ul>
 <h3 id="23">
 其他
 </h3>
@@ -2163,8 +2140,6 @@ google图片站点搜索
 <li class="L22">
 <a href="https://mail.zoho.com/portal/foonce" target="_blank">zoho邮箱</a>
 </li>
-</ul>
-<ul class=" list-paddingleft-2">
 <h3 id="25">
 影视
 </h3>
@@ -2192,8 +2167,6 @@ google图片站点搜索
 <li class="L22">
 <a href="http://www.mp4ba.com/" target="_blank">高清Mp4吧 | 免费高清电影资源下载 &nbsp;| &nbsp;Powered by Mp4Ba.Com</a>
 </li>
-</ul>
-<ul class=" list-paddingleft-2">
 <h3 id="26">
 bt搜索
 </h3>
@@ -2473,4 +2446,4 @@ DRP
 <li class="L22">
 <a href="http://t66y.blog.com/" target="_blank">草榴社區地址發布博客</a>
 </li>
-</ul>>
+>
